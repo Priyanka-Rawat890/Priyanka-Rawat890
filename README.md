@@ -30,7 +30,7 @@ I'm an aspiring Data Analyst with a passion for turning data into actionable ins
 
 ## 📫 How to reach me
 
-🔗 LinkedIn: https://www.linkedin.com/
+🔗 LinkedIn: https://www.linkedin.com/in/priyanka-r-398bb4337
 📧 Email: rawatpriyanka.077@gmail.com
 
 ## 🤝 Let's connect!
