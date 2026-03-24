@@ -10,7 +10,7 @@ I'm an aspiring Data Analyst with a passion for turning data into actionable ins
 
 ## 🛠️ My Skill Set
 
-🚀 Languages and Tools
+### 🚀 Languages and Tools
 
 
 
@@ -28,7 +28,8 @@ I'm an aspiring Data Analyst with a passion for turning data into actionable ins
 ## 📫 How to reach me
 
 🔗 LinkedIn: https://www.linkedin.com/
-📧 Email: your-email@gmail.com
-🤝 Let's connect!
+📧 Email: rawatpriyanka.077@gmail.com
+
+## 🤝 Let's connect!
 
 Feel free to explore my repositories and connect with me. I'm open to opportunities and collaborations in the IT field.
