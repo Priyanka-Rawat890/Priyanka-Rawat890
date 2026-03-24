@@ -20,9 +20,10 @@ Python: Automating data tasks, data cleaning, and leveraging libraries like Pand
 
 ## 🌱 What I'm currently working on
 
-Building Data Analyst projects (Sales Dashboard, Employee Dashboard)
-Improving SQL and Power BI skills
-Learning Python for data analysis & machine learning
+* Developing projects to showcase my data analysis skills.
+* Deepening my knowledge of advanced Excel and Power BI features.
+* Improving SQL and Power BI skills
+* Learning Python for data analysis & machine learning
 
 ## 📫 How to reach me
 
