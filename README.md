@@ -42,10 +42,9 @@ I'm an MCA graduate seeking opportunities in the IT industry. i have skills in b
 
 ## 🌱 What I'm currently working on
 
-* Developing projects to showcase my data analysis skills.
+* Improving Data Structures & Algorithms.
+* Creating real-world projects for Software & Data roles
 * Deepening my knowledge of advanced Excel and Power BI features.
-* Improving SQL and Power BI skills
-* Learning Python for data analysis & machine learning
 
 ## 📫 How to reach me
 
