@@ -26,21 +26,21 @@ I'm an MCA graduate seeking opportunities in the IT industry. i have skills in b
 
 ### 🚀 Languages and Tools
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge\&logo=python\&logoColor=306998)
-![Java](https://img.shields.io/badge/Java-FF6F00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFEA00?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F2C811?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-![HTML5](https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge\&logo=css3\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-CC2927?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-![Flask](https://img.shields.io/badge/Flask-121212?style=for-the-badge\&logo=flask\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-217346?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-00ACC1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-217346?style=for-the-badge\&logo=flask\&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-FF3D00?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-217346?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-217346?style=for-the-badge\&logo=github\&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/VS_Code-2962FF?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 
 
