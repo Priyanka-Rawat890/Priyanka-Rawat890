@@ -9,7 +9,7 @@ I'm an MCA graduate seeking opportunities in the IT industry. I have skills in b
 - **Programming (Python & Java)**: Writing clean and efficient code, understanding of OOP concepts, and solving real-world problems using      structured programming approaches.
 - **Web Development (HTML, CSS, JavaScript)**: Building responsive and user-friendly web interfaces, working with layouts, styling, and        interactive UI components.
 - **Backend Development (Flask)**: Creating REST APIs, handling client-server communication, and implementing basic authentication and         CRUD operations.
--**Database (SQL / MySQL)**: Designing databases, writing queries, performing data manipulation, and integrating databases with               applications.
+- **Database (SQL / MySQL)**: Designing databases, writing queries, performing data manipulation, and integrating databases with               applications.
 - **Version Control (Git & GitHub)**: Managing code versions, collaborating on projects, and maintaining repositories with proper commits      and documentation.
 - **Problem Solving & DSA (Basic)**: Understanding data structures and applying logical thinking to solve coding problems efficiently
 
