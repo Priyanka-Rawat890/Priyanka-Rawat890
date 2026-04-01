@@ -28,24 +28,29 @@ I'm an MCA graduate seeking opportunities in the IT industry. i have skills in b
 
 ### 🚀 Languages and Tools
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge\&logo=mysql)
+<p align="left">
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/POWERBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge\&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
+<br><br>
 
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge\&logo=flask)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge\&logo=microsoft-excel)
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge\&logo=powerbi)
+<br><br>
+
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
 
 
 
