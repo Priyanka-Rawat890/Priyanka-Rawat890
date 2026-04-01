@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Priyanka Rawat!
 
-I'm an MCA graduate seeking opportunities in the IT industry. i have skills in both software development and data analysis. I enjoy building applications as well as analysing data to extract meaningful insights, My toolkit includes:
+I'm an MCA graduate seeking opportunities in the IT industry. I have skills in both software development and data analysis. I enjoy building applications as well as analysing data to extract meaningful insights, My toolkit includes:
 
 - **Excel**: Advanced dynamic formulas, Power Query, Power Pivot, DAX, ETL, pivot tables, scenario planning, and more.  
 - **Power BI**: Designing interactive dashboards and reports, data modeling, and advanced visualization techniques.  
