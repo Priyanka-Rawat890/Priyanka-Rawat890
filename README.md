@@ -24,22 +24,28 @@ I'm an MCA graduate seeking opportunities in the IT industry. i have skills in b
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
+## 🛠️ My Skill Set
+
 ### 🚀 Languages and Tools
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F2C811?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge\&logo=mysql)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-CC2927?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
 
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-217346?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge\&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
 
-![Flask](https://img.shields.io/badge/Flask-217346?style=for-the-badge\&logo=flask\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge\&logo=flask)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
 
-![Git](https://img.shields.io/badge/Git-217346?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-217346?style=for-the-badge\&logo=github\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge\&logo=microsoft-excel)
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge\&logo=powerbi)
 
 
 
