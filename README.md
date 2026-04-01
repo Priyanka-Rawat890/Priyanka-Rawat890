@@ -24,12 +24,6 @@ I'm an MCA graduate seeking opportunities in the IT industry. i have skills in b
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-## 🛠️ My Skill Set
-
-### 🚀 Languages and Tools
-
-<p align="left">
-
 <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/POWERBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white"/>
